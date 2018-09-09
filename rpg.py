@@ -43,6 +43,7 @@ for i in range(5):
     elif svar == 'overgi meg':
         sleep (2)
         print ("Oh no, du kan ikke overgi deg!")
+        break
         
        
     elif svar == 'angripe':
@@ -54,7 +55,7 @@ for i in range(5):
         sleep (2)
         print ("Oh, jeg forstod ikke hva du sa, prøv en gang til." )
         
-        
+exit()
         
         
         
