@@ -23,3 +23,5 @@ elif pH <= 14:
     print ("Løsningen din er basisk.")        
 else:
     print ("Løsning din må du se nærmere på, for den er utenfor pH skalaen.") #Dersom en taster inn en ugyldig verdi
+
+

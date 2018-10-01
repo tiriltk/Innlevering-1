@@ -56,14 +56,4 @@ for i in range(5):
         print ("Oh, jeg forstod ikke hva du sa, prøv en gang til." )
         
 exit()
-        
-        
-        
-        
-            
-        
-        
-        
-        
-    
-    
+ 
